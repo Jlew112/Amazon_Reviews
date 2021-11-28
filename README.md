@@ -14,6 +14,7 @@ Here are the results of our breakdown:
 - Total helpful reviews from the unpaid reviewers (no Vine) = 40471
 
 With our totals lined out, it is time to check the star ratings from each group.
+
 ![alt text](https://github.com/Jlew112/Amazon_Reviews/blob/main/helpful%20total%20star%20breakdown.PNG?raw=true)
 ![alt text](https://github.com/Jlew112/Amazon_Reviews/blob/main/no%20vine%20star%20breakdown.PNG?raw=true)
 ![alt text](https://github.com/Jlew112/Amazon_Reviews/blob/main/yes%20vine%20star%20breakdown.PNG?raw=true)
